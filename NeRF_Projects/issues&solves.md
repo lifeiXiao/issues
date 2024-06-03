@@ -1,7 +1,8 @@
 ## issue: linux download_error Imageio: 'libfreeimage-3.16.0-linux64.so'
 ### solve: 
-find path ``` import imageio ```
-          ``` imageio.core.util.appdata_dir("imageio")```
+find path 
+``` import imageio ```         
+``` imageio.core.util.appdata_dir("imageio")```
 download libfreeimage-3.16.0-linux64.so by hand and cut to the path root/.imageio/freeimage/(most common path, certain path is according to fact) 
 
 ## issue: import pyngp as ngp # noqa
