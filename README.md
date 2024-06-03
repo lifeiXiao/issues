@@ -1,2 +1,3 @@
 # issues
-special environment or runtime issues
+## For fast use, just open 'Issues' and input 'keywords', then search.
+## Or you can Download the whole project and  Use global search
