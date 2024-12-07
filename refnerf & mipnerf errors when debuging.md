@@ -35,3 +35,9 @@ git clone https://github.com/rmbrualla/pycolmap.git ./internal/pycolmap
 ### 报错ModuleNotFoundError: No module named 'functorch'
 pip install funtorch
 
+### jax jaxlib使用cpu版本，如何切换到GPU版本
+从下面的连接安装
+
+https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+jax jaxlib冲突问题
